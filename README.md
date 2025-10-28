@@ -28,7 +28,8 @@ It helps understand Netflix’s content strategy using data visualization and an
 - The USA, India, and the UK are top content producers.
 
 ## Author
-Chandan Patel  
-Data Analysis & Visualization Enthusiast  
-[GitHub Profile](https://github.com/chandanbond)
+Chandan Patel
+(Data Analysis & Visualization Enthusiast) 
+Email - chandanbondpatel@gmail.com
+🌐 GitHub: https://github.com/chandanbond
 
